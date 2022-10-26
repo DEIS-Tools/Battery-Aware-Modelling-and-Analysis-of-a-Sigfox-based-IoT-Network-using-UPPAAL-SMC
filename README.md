@@ -57,5 +57,14 @@ These models are developed to estimate and optimise the battery lifetime of a DW
 •	**CompressCtrl:** This automaton is used as TableCtrl for data compression model.
 
 
+# Installation and Simulation:
+
+For installation, download the UPPAAL software and the sensor node model. Open the model in UPPAAL and simulate using the Queries given in the verifier tab of the tool.
+
+Use the following link for installation details of the UPPAAL tool:
+
+https://uppaal.org/downloads/#installation-instructions
+
+
 # Future Work
 •	implementation of a complete Sigfox IoT solution including network server
