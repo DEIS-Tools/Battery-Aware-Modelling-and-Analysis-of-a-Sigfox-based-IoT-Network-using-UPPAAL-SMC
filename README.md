@@ -28,6 +28,17 @@ These models are developed to estimate and optimise the battery lifetime of a DW
 
 •	It Can generate a comparison of battery life for different transmission strategies.
 
+
+# Proposed Strategies For transmission
+**Worst-case strategy:** 
+
+**Optimise listening strategy:**
+
+**Wether Driven strategy:**
+
+**Data compression Strategy:**
+
+
 # Processes in Model
 •	**Init:** This automaton is used to initialise all processes.
 
@@ -44,17 +55,6 @@ These models are developed to estimate and optimise the battery lifetime of a DW
 •	**Data:** It process the real sensor measurement of water height to simulate the data compression strategy. 
 
 •	**CompressCtrl:** This automaton is used as TableCtrl for data compression model.
-
-
-# Proposed Strategies For transmission
-**Worst-case strategy:** 
-
-**Optimise listening strategy:**
-
-**Wether Driven strategy:**
-
-**Data compression Strategy:**
-
 
 
 # Future Work
